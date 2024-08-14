@@ -41,7 +41,7 @@
 			</div>
 		</div>
 
-		<div class="menubar sidebar flex flex-col border-l" ref="sidebar" v-show="menubarOpen">
+		<div class="menubar sidebar flex flex-col border-l w-full" ref="sidebar" v-show="menubarOpen">
 			<div class="sidebar-header flex items-center justify-between">
 				<slot name="menubar-header" :handleClose="() => menubarOpen = false"></slot>
 			</div>
