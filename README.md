@@ -25,6 +25,7 @@ npx serve .output/public
 - Ganti Kontak
 - Pinned Kontak
 - Edit Data Kontak (Name)
+- Send Messege
 
 ### Note
 -
