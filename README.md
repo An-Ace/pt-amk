@@ -1,75 +1,30 @@
-# Nuxt 3 Minimal Starter
+# TEST USER Front End PT Ayo Menebar Kebaikan
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is an result for Front End test PT AMK
+## Library Used
+[NuxtJS](https://nuxt.com/docs/getting-started/installation), [TailwindCSS](https://github.com/nextauthjs/next-auth), [Naive-UI](https://www.naiveui.com), [Pinia](https://pinia.vuejs.org), [SASS](https://sass-lang.com/)
 
-## Setup
+## Live Server Link
+### https://test-pt-amk.vercel.app
+** Login dengan Email dan Password Bebas **
+### [FIGMA DESIGN LINK](https://www.figma.com/design/7h8Ht6OMFuzwByKWo4Bhv4/Untitled?node-id=0-1&t=K6eCW5uLkZ3rSq80-1)
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Deployment
+To get started with this static web, simply paste this command into your terminal:
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+npx serve .output/public
 ```
 
-## Production
+## The Final step
+- Open http://localhost:3000
+- Then login with any username and password
 
-Build the application for production:
+# Informasi Tambahan
+### Fitur yang Berjalan
+- Ganti Kontak
+- Pinned Kontak
+- Edit Data Kontak (Name)
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Note
+-
